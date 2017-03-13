@@ -1,0 +1,277 @@
+{
+  "api_login": [
+    {
+      "id": 1,
+      "username": "aaaa",
+      "url": "/static/images/jsonimg/slide1.gif"
+    },
+    {
+      "mobile": 11111111111,
+      "yzm": "111111",
+      "password": "11111111",
+      "id": 2
+    }
+  ],
+  "slide": [
+    {
+      "id": 1,
+      "url": "/static/images/jsonimg/slide1.gif"
+    },
+    {
+      "id": 2,
+      "url": "/static/images/jsonimg/slide2.gif"
+    },
+    {
+      "id": 3,
+      "url": "/static/images/jsonimg/slide3.gif"
+    }
+  ],
+  "main_data": [
+    {
+      "id": 1,
+      "title": "2016新款潮女包斜挎包荔枝纹小包包简约百搭糖果",
+      "url": "/static/images/jsonimg/top1.gif",
+      "old_price": "202.00",
+      "new_price": "119.00",
+      "top": true,
+      "week": true
+    },
+    {
+      "id": 2,
+      "title": "清新木环半定型马鞍小包",
+      "url": "/static/images/jsonimg/left1.gif",
+      "old_price": "108.00",
+      "new_price": "84.00",
+      "top": false,
+      "week": true
+    },
+    {
+      "id": 3,
+      "title": "斜挎单肩链条大象包包女",
+      "url": "/static/images/jsonimg/right1.gif",
+      "old_price": "292.00",
+      "new_price": "209.00",
+      "top": false,
+      "week": true
+    },
+    {
+      "id": 4,
+      "title": "尼龙双肩包女菱格牛津布旅行背包时尚百搭包学生书",
+      "url": "/static/images/jsonimg/top2.gif",
+      "old_price": "3940.00",
+      "new_price": "1550.00",
+      "top": true,
+      "week": false
+    },
+    {
+      "id": 5,
+      "title": "呢子包2016秋季新款包",
+      "url": "/static/images/jsonimg/left2.gif",
+      "old_price": "178.00",
+      "new_price": "68.00",
+      "top": false,
+      "week": false
+    },
+    {
+      "id": 6,
+      "title": "鹅黄菱格手提牛皮包",
+      "url": "/static/images/jsonimg/right2.gif",
+      "old_price": "299.00",
+      "new_price": "202.00",
+      "top": false,
+      "week": false
+    }
+  ],
+  "details": [
+    {
+      "id": 1,
+      "num": 1,
+      "color": {
+        "url": "/static/images/jsonimg/slide2.gif",
+        "title": "2016年新款潮女包斜挎包荔枝纹小包包简约百搭单肩包糖果色小猪包夏",
+        "new_money": "119.00",
+        "old_money": "202.00",
+        "integral": "积分：119",
+        "Courier": "快递：0.00",
+        "sales": "月销56笔",
+        "collection": "收藏（66）",
+        "commonts":"累计评价(233)",
+        "style_name": "其他",
+        "style": "单肩包",
+        "Backpack_way": "单肩斜跨",
+        "grain": "pu",
+        "Material_process": "软面",
+        "all_color": "白色 黑色 粉红色",
+        "The_colour": "全新",
+        "brand": "other/其他",
+        "color": "白色"
+      },
+      "img": [
+        {
+          "id": 1,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 2,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 3,
+          "url": "/static/images/jsonimg/show1.gif"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "num": 1,
+      "color": {
+        "url": "/static/images/jsonimg/left1.gif",
+        "title": "清新木环半定型马鞍小包",
+        "new_money": "84.00",
+        "old_money": "108.00",
+        "integral": "积分：99",
+        "Courier": "快递：0.00",
+        "sales": "月销7091笔",
+        "collection": "收藏（156）",
+        "commonts":"累计评价(293)",
+        "style_name": "其他",
+        "style": "围巾/丝巾",
+        "Backpack_way": "格子加厚",
+        "grain": "羊毛",
+        "Material_process": "软面",
+        "all_color": "A款驼色格 B款浅灰色 A款黑",
+        "The_colour": "全新",
+        "brand": "牧尼",
+        "color": "A款黑"
+      },
+      "img": [
+        {
+          "id": 1,
+          "url":"/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 2,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 3,
+          "url": "/static/images/jsonimg/show1.gif"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "num": 1,
+      "color": {
+        "url": "/static/images/jsonimg/right1.gif",
+        "title": "斜跨单肩链条大象宝宝女",
+        "new_money": "209.00",
+        "old_money": "292.00",
+        "integral": "积分：199",
+        "Courier": "快递：0.00",
+        "sales": "月销70911笔",
+        "collection": "收藏（156）",
+        "commonts":"累计评价(293)",
+        "style_name": "其他",
+        "style": "围巾/丝巾",
+        "Backpack_way": "加厚",
+        "grain": "羊皮",
+        "Material_process": "软面",
+        "all_color": "A款驼色格 B款浅灰色 A款黑",
+        "The_colour": "全新",
+        "brand": "牧尼",
+        "color": "A款黑"
+      },
+      "img": [
+        {
+          "id": 1,
+          "url":"/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 2,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 3,
+          "url": "/static/images/jsonimg/show1.gif"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "num": 1,
+      "color": {
+        "url": "/static/images/jsonimg/top2.gif",
+        "title": "尼龙双肩包牛津布旅行背包百搭时尚包",
+        "new_money": "1550.00",
+        "old_money": "3440.00",
+        "integral": "积分：199",
+        "Courier": "快递：0.00",
+        "sales": "月销70911笔",
+        "collection": "收藏（156）",
+        "commonts":"累计评价(293)",
+        "style_name": "其他",
+        "style": "围巾/丝巾",
+        "Backpack_way": "加厚",
+        "grain": "羊皮",
+        "Material_process": "软面",
+        "all_color": "A款驼色格 B款浅灰色 A款黑",
+        "The_colour": "全新",
+        "brand": "牧尼",
+        "color": "A款黑"
+      },
+      "img": [
+        {
+          "id": 1,
+          "url":"/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 2,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 3,
+          "url": "/static/images/jsonimg/show1.gif"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "num": 1,
+      "color": {
+        "url": "/static/images/jsonimg/left2.gif",
+        "title": "妮子包2016新款包包",
+        "new_money": "68.00",
+        "old_money": "178.00",
+        "integral": "积分：99",
+        "Courier": "快递：0.00",
+        "sales": "月销7091笔",
+        "collection": "收藏（156）",
+        "commonts":"累计评价(293)",
+        "style_name": "其他",
+        "style": "围巾/丝巾",
+        "Backpack_way": "格子加厚",
+        "grain": "羊毛",
+        "Material_process": "软面",
+        "all_color": "A款驼色格 B款浅灰色 A款黑",
+        "The_colour": "全新",
+        "brand": "牧尼",
+        "color": "A款黑"
+      },
+      "img": [
+        {
+          "id": 1,
+          "url":"/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 2,
+          "url": "/static/images/jsonimg/show1.gif"
+        },
+        {
+          "id": 3,
+          "url": "/static/images/jsonimg/show1.gif"
+        }
+      ]
+    }
+  ]
+}
